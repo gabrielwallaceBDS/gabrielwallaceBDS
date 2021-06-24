@@ -2,7 +2,9 @@
 
 
  🕵️ procurando emprego 🕵️  www.linkedin.com/in/gabrielwallaceborges	
+ 
  🤓 cursando analise e desenvolvimento de sistemas 🤓
+ 
  🎮jogar é meu hobby🎮
  
   # aprendizado 👨‍💻
