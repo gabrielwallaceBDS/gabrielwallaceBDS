@@ -1,19 +1,32 @@
-### Hi there 👋
- 🔭 I'm looking for a job
+ # Olá, meu nome é Gabriel Wallace 👋
+
+
+ 🕵️ procurando emprego 🕵️  www.linkedin.com/in/gabrielwallaceborges	
+ 🤓 cursando analise e desenvolvimento de sistemas 🤓
+ 🎮jogar é meu hobby🎮
  
- www.linkedin.com/in/gabrielwallaceborges
+  # aprendizado 👨‍💻
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+   
+ 
+ 
+    
+   # Git Hub stats 🥇
+    
+<p align="center">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielwallaceBDS&count_private=true&show_icons=true&theme=onedark" alt="My GitHub stats"/>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwallaceBDS&langs_count=10&layout=compact&theme=onedark" alt="Most Used Language"/>
+</p>
 
-<!--
-**gabrielwallaceBDS/gabrielwallaceBDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# notas 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielwallaceBDS&theme=onedark)](https://github.com/gabrielwallaceBDS/github-profile-trophy)
 
-Here are some ideas to get you started:
 
-- 🔭 I'm looking for a job
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
