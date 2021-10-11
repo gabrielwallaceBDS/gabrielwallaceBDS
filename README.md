@@ -25,7 +25,7 @@
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwallaceBDS&langs_count=10&layout=compact&theme=onedark" alt="Most Used Language"/>
 </p>
 
-# notas 🏆
+# estatisticas do repositorio🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=gabrielwallaceBDS&theme=onedark)](https://github.com/gabrielwallaceBDS/github-profile-trophy)
 
 
