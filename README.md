@@ -1,6 +1,7 @@
  # Olá, meu nome é Gabriel Wallace 👋
  
- 🤓 cursando analise e desenvolvimento de sistemas 🤓
+ 🤓 cursando Engenharia da Computação 🤓
+
  
   # aprendizado 👨‍💻
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
